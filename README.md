@@ -1,16 +1,14 @@
-## Hi there 👋
+# Haitam Marzouki
 
-<!--
-**Haiitam18/Haiitam18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Technical Support & Developer — Remote
 
-Here are some ideas to get you started:
+## Stack
+Python · FastAPI · JavaScript · React · Next.js · PostgreSQL · Supabase · Twilio · Vercel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- **Missed-Call** — Automated SMS lead qualification system (FastAPI + Twilio + OpenAI + Supabase) · [GitHub](https://github.com/Haiitam18/Miss-Call)
+- **Weather App** — React app deployed on Vercel · [GitHub](lien) · [Live](lien)
+- **Movie Controller** — React app with TMDB API · [GitHub](lien) · [Live](lien)
+
+## Currently
+Looking for a remote Technical Support Engineer role
